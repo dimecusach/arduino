@@ -1,8 +1,7 @@
 /*
   Blink
   Turns on an LED on for one second, then off for one second, repeatedly.
- 
-  This example code is in the public domain.
+ Este es un ejemplo de dominio publico
  */
  
 // Pin 13 has an LED connected on most Arduino boards.
